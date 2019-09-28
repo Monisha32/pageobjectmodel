@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Everjobs Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Page Object Model Project(failed)">
+    <classes>
+      <class name="com.facebook.qa.testcases.FBLoginTest">
+        <methods>
+          <include name="init"/>
+          <include name="TeardownTest"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- com.facebook.qa.testcases.FBLoginTest -->
+    </classes>
+  </test> <!-- Page Object Model Project(failed) -->
+</suite> <!-- Failed suite [Everjobs Suite] -->
