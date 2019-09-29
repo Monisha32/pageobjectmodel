@@ -9,7 +9,7 @@ public class FBLoginPage {
 
 	WebDriver driver;
 	String s1 = "Hello" ;
-
+    String s2= " Hello Monisha";
         public FBLoginPage(WebDriver driver){ 
                  this.driver=driver; 
         }
