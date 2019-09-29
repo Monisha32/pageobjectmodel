@@ -8,6 +8,7 @@ import org.openqa.selenium.support.How;
 public class FBLoginPage {
 
 	WebDriver driver;
+	String s1 = "Hello" ;
 
         public FBLoginPage(WebDriver driver){ 
                  this.driver=driver; 
